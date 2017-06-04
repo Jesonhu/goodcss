@@ -1,6 +1,6 @@
-\`\`\`js
+```
+console.log
+```
 
-console.log\('My first method'\);
 
-\`\`\`
 
