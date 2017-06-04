@@ -1,10 +1,9 @@
 # Summary
 
-## 结构与布局
+## ch7-结构与布局
 
 * [My Awesome API](README.md)
-* [垂直居中](sss.md)
-  * [s](s.md)
+* [ch7.1-垂直居中](sss.md)
 
 ## Methods
 
