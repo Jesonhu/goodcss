@@ -6,5 +6,9 @@ background简写中如果指定background-size需要同时提供background-posit
 background:url(xxx) no-repeat to bottom / 10px 10px;
 ```
 
+---
+
+## 2 白色背景的容器添加半透明白色边框
+
 
 
