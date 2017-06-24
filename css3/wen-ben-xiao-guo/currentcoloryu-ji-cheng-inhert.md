@@ -1,8 +1,8 @@
 ## 1 currentColor
 
-  currentColor被解析为color 与当前元素某些颜色一致
+currentColor被解析为color 与当前元素某些颜色一致
 
-  css历史上第一个变量
+css历史上第一个变量
 
 ```html
 <!-- 水平分割线自动与文本颜色一致 -->
@@ -35,6 +35,8 @@
   border-color:green;
 }
 ```
+
+---
 
 
 
