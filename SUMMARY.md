@@ -36,10 +36,11 @@
 
 ## css3
 
-* 背景
+* [背景](css3/bei-jing.md)
 * [边框Borders](css3/bordersbian-kuang.md)
 * 渐变
-* 文本效果
+* [文本效果](css3/wen-ben-xiao-guo.md)
+  * [currentColor与继承inhert](css3/wen-ben-xiao-guo/currentcoloryu-ji-cheng-inhert.md)
 * 字体
 * 2d转换
 * 3d转换
