@@ -1,11 +1,11 @@
 # Summary
 
-## CSS 基础\(1~2\)
+## CSS 基础
 
 * [CSS语法](README.md)
 * [css选择器](ch7.1垂直居中.md)
 * css创建\(使用\)
-* 背景
+* [背景](bei-jing.md)
 * 文本Text
 * 字体Fonts
 * 链接
